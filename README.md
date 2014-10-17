@@ -19,6 +19,8 @@ Order will be like this:
 6. Review
 7. Final
 
+Final being the best of all!
+
 Should not take more than 2 hours to learn from 10 code files.
 
 PS: Code is not perfect at any point in time, we just try to make it better.
